@@ -44,4 +44,5 @@ npm start
 - `/src/data` - Mock data for development
 
 Slide Presentation Link  ZTech 
-https://drive.google.com/file/d/1eLo6LO9H_-xiP3TipYVnQ0Q67VX8zLV_/view?usp=sharing
+
+https://drive.google.com/file/d/1jEa3AvaN_-vrewhoyGh-JYtw3avCXLmu/view?usp=sharing
