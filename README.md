@@ -15,7 +15,7 @@ A Shariah-compliant microfinancing platform combining Waqf and Sukuk principles.
 - React
 - TypeScript
 - Material-UI
-- React Router
+
 
 ## Getting Started
 
